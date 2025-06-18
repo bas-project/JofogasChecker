@@ -1,7 +1,7 @@
 # Jofogas Checker
 🇺🇸 EN: An automated tool for quickly and efficiently checking multiple accounts on the Jofogas platform, streamlining the checking process and saving time.
 
-✅ Advantages:
+✅ **Advantages**:
 
 🔍 Automatic account status verification
 
@@ -14,6 +14,8 @@
 🔗 Easy integration with existing databases
 
 🇷🇺 RU: Автоматическая программа для быстрой и эффективной массовой проверки аккаунтов на платформе Jofogas, упрощающая процесс проверки и экономящая время.
+
+✅ **Преимущества**:
 
 🔍 Автоматическая проверка статуса аккаунтов
 
